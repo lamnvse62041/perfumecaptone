@@ -43,7 +43,7 @@ const DatatablePage = () => {
     ],
     rows: [
       {
-        name: 'Sumi Lam',
+        name: 'Sumi SS',
         position: 'System Architect',
         office: 'Edinburgh',
         age: '61',
